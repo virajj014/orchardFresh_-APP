@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89522000627",
+    "project_id": "orchardfresh-5b6f6",
+    "storage_bucket": "orchardfresh-5b6f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89522000627:android:241ead04264424659b9d86",
+        "android_client_info": {
+          "package_name": "com.f2basket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89522000627-gahifb6vslelsac9un311tgrd277vg0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpHggNxo-1Obd_Dpi60wT3uTXA8eWIjsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89522000627-gahifb6vslelsac9un311tgrd277vg0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
